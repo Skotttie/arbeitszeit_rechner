@@ -1,7 +1,7 @@
 # 🕒 Arbeitszeit-Rechner
 
 Ein einfacher Arbeitszeit-Rechner als **Web-App auf Streamlit Basis**, der dir ausrechnet, wann du Feierabend hast – basierend auf deiner Ankunftszeit und der gewünschten Arbeitsdauer.
-
+Zur Website: https://skottie-arbeitszeitrechner.streamlit.app/
 ---
 
 ## ✅ Funktionen
